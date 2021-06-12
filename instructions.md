@@ -1,7 +1,6 @@
 # 创建超级管理员用户
 python manage.py createsuperuser
 
-
 # 数据库迁移
 python manage.py makemigrations
 python manage.py migrate
